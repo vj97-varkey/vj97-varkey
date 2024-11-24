@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vj97-varkey
-- 👀 I’m interested in coding searching for new interesting repositories
+- 👀 I’m interested in coding, searching for new interesting repositories
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on coding, big data analytics, optimisation.
 - 📫 How to reach me..... message me in linkedin
